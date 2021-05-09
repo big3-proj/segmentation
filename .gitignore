@@ -1,9 +1,10 @@
 # Ignore the fucking huge Model
 data/
 
-# So do the CSVs
+# So do the CSVs/json
 2019_2020_top_10.csv
 2019_2020_top_3000_users.csv
+Gossiping-36865-38872.json
 
 # Ignore Mac file
 .DS_Store
